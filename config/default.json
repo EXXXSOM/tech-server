@@ -4,5 +4,5 @@
     "smtpUser": "seaowl8@gmail.com",
     "smtpPassword": "qwertY132",
     "defaultPort": 5000,
-    "db_url": "mongodb+srv://admin:bwX-2Ez-VbR-vm5@cluster0.dshrg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "db_url": "mongodb+srv://root:123@cluster0.runqt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
